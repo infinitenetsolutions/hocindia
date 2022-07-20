@@ -12,11 +12,11 @@ $about_display3 = mysqli_query($connection, $about_query3);
 $about_query4 = "SELECT * FROM `jag_product` where `category`='Mannual Steps & Lifting Key'";
 $about_display4 = mysqli_query($connection, $about_query4);
 
-$about_query5 = "SELECT * FROM `jag_product` where `category`='Agricultural Castings'";
-$about_display5 = mysqli_query($connection, $about_query5);
+// $about_query5 = "SELECT * FROM `jag_product` where `category`='Agricultural Castings'";
+// $about_display5 = mysqli_query($connection, $about_query5);
   
-$about_query6 = "SELECT * FROM `jag_product` where `category`='Pipe Fittings'";
-$about_display6 = mysqli_query($connection, $about_query6);
+// $about_query6 = "SELECT * FROM `jag_product` where `category`='Pipe Fittings'";
+// $about_display6 = mysqli_query($connection, $about_query6);
 
 
 
@@ -257,8 +257,8 @@ Airport Landing strips and extreme heavy-duty application.
   <button class="tablinks" onclick="openCity(event, 'tech2')">FRP  & GRP Gratings with Frame</button>
   <button class="tablinks" onclick="openCity(event, 'tech3')">Surface Box & Tree Grate</button>
   <button class="tablinks" onclick="openCity(event, 'tech4')">Mannual Steps & Lifting Bar</button>
-  <button class="tablinks" onclick="openCity(event, 'tech5')">Agricultural Castings</button>
-  <button class="tablinks" onclick="openCity(event, 'tech6')">Pipe Fittings</button>
+  <!-- <button class="tablinks" onclick="openCity(event, 'tech5')">Agricultural Castings</button>
+  <button class="tablinks" onclick="openCity(event, 'tech6')">Pipe Fittings</button> -->
   
 </div>
 
@@ -329,7 +329,7 @@ Airport Landing strips and extreme heavy-duty application.
 </div>
 </div>
   
-  <div id="tech5" class="tabcontent">
+  <!-- <div id="tech5" class="tabcontent">
   <div class="main-content">
   <h3 class="technologies-title">Agricultural Castings</h3>
   
@@ -361,7 +361,7 @@ Airport Landing strips and extreme heavy-duty application.
   
   </div>
 </div>
-</div>
+</div> -->
 
 </div>
 

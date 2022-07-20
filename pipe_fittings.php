@@ -173,10 +173,10 @@ $about_display1 = mysqli_query($connection, $about_query1);
   <!-- product details starts here  -->
   <div class="main-tech">
 <div class="tab">
-  <a class="tablinks" href="composite_mahole.php">COMPOSITE MAHOLE COVERS & FRAME</a>
+  <!-- <a class="tablinks" href="composite_mahole.php">COMPOSITE MAHOLE COVERS & FRAME</a>
   <a class="tablinks" href="frp&grp.php">FRP & GRP GRATINGS WITH FRAME</a>
   <a class="tablinks" href="surface_box.php">SURFACE BOX & TREE GRATE</a>
-  <a class="tablinks" href="manual_steps.php">MANUAL STEPS & LIFTING BAR</a>
+  <a class="tablinks" href="manual_steps.php">MANUAL STEPS & LIFTING BAR</a> -->
   <a class="tablinks" href="agricultural_casting.php">AGRICULTURAL CASTINGS</a>
   <button class="tablinks" onclick="openCity(event, 'tech1')" id="defaultOpen">PIPE FITTINGS</button>
 </div>
@@ -201,7 +201,7 @@ $about_display1 = mysqli_query($connection, $about_query1);
   <!-- product details ends here -->
 
   <!-- other details of product page start -->
-  <div class="container-fluid">
+  <!-- <div class="container-fluid">
     <div class="row">
       <div style="text-align: center;display: block; width: 100%;">
         <h3 style="
@@ -288,7 +288,7 @@ $about_display1 = mysqli_query($connection, $about_query1);
 
 
     </div>
-  </div>
+  </div> -->
   <!-- other details of product page ends -->
 
   <script>

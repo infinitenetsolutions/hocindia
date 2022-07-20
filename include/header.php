@@ -306,11 +306,12 @@ Please share the following details</h4>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Products</a>
                             <div class="dropdown-menu">
-                                <a href="composite_mahole.php" class="dropdown-item">Composite Mahole Covers & Frame</a>
+                                <!-- <a href="composite_mahole.php" class="dropdown-item">Composite Mahole Covers & Frame</a>
                                 <a href="frp&grp.php" class="dropdown-item">FRP & GRP Grantings with Frame</a>
                                 <a href="surface_box.php" class="dropdown-item">Surface Box & Tree Grate</a>
-                                <a href="manual_steps.php" class="dropdown-item">Manual Steps & Lifting Bar</a>
-                                <a href="agricultural_castings.php" class="dropdown-item">Agricultural Castings</a>
+                                <a href="manual_steps.php" class="dropdown-item">Manual Steps & Lifting Bar</a> -->
+                                <a href="products.php" class="dropdown-item">Municipal Castings</a>
+                                <a href="agricultural_casting.php" class="dropdown-item">Agricultural Castings</a>
                                 <a href="pipe_fittings.php" class="dropdown-item">Pipe Fittings</a>
                                 <!-- <a href="booking.html" class="dropdown-item">Schedule Booking</a> -->
                               <!--<a href="office.php" class="dropdown-item">Office & Infrastructure</a>-->
