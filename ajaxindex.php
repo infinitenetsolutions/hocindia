@@ -14,6 +14,7 @@ $product_display = mysqli_query($connection, $products_query);
                         <!-- <div class="meta-date">
                             <span>01</span>
                             <strong>Jan</strong>
+                            test
                             <span>2045</span>
                         </div> -->
                     </div>
