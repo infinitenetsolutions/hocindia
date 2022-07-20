@@ -264,7 +264,7 @@ Airport Landing strips and extreme heavy-duty application.
 
 <div id="tech1" class="tabcontent">
 <div class="main-content">
-  <h3 class="technologies-title">Complete Sewer Vent Cover</h3>
+  <h3 class="technologies-title">Sewer Vent Cover</h3>
   
   <div class="main-logo">
   <?php while($row = mysqli_fetch_assoc($about_display1)){?>
@@ -281,7 +281,7 @@ Airport Landing strips and extreme heavy-duty application.
 
 <div id="tech2" class="tabcontent">
   <div class="main-content">
-  <h3 class="technologies-title">Intresting Gratings</h3>
+  <h3 class="technologies-title">Gratings</h3>
   
   <div class="main-logo">
   <?php while($row = mysqli_fetch_assoc($about_display2)){?>
